@@ -5,6 +5,14 @@
     },
     {
         "author": "Paul O’Shannessy",
-        "text": "React is *great*!"
+        "text": "React is *great*!!!!"
+    },
+    {
+        "author": "test",
+        "text": "testsdf"
+    },
+    {
+        "author": "sdf",
+        "text": "sdf"
     }
 ]
